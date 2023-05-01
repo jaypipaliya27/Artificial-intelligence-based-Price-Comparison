@@ -4,11 +4,11 @@ Artificial Intelligence (AI) is revolutionizing the way products are priced and 
 
 # To use this program, follow the steps below:
 
-- Install the necessary dependencies by running the command: pip install -r requirements.txt
+- Install the necessary dependencies by running the command: pip install beautifulsoup
 
-- Run the program by running the command: python main.py
+- Run the program by running the command: python Price Comparison.py
 
-- Enter your query when prompted. For example, you can enter "iPhone 13 Pro Max 256GB" to compare prices of that specific product across multiple online stores.
+- Enter your query when prompted. For example, you can enter "realme narzo n55" to compare prices of that specific product across multiple online stores.
 
 - The program will retrieve relevant product information from various online stores, analyze the data, and display a comprehensive comparison of prices and other product features.
 
@@ -16,7 +16,7 @@ Artificial Intelligence (AI) is revolutionizing the way products are priced and 
 
 The program's accuracy and reliability may also vary depending on the quality and availability of data from the online stores it queries.
 
-If you encounter any issues or have any feedback, please feel free to contact the developer at [developer's email address]. Thank you for using the Artificial Intelligence Price Comparison program!
+
 
 
 
