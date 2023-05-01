@@ -16,7 +16,7 @@ Artificial Intelligence (AI) is revolutionizing the way products are priced and 
 
 The program's accuracy and reliability may also vary depending on the quality and availability of data from the online stores it queries.
 
-If you encounter any issues or have any feedback, please feel free to contact the developer at [developer's email address]. Thank you for using the Python-based Price Comparison program!
+If you encounter any issues or have any feedback, please feel free to contact the developer at [developer's email address]. Thank you for using the Artificial Intelligence Price Comparison program!
 
 
 
